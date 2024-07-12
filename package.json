@@ -1,0 +1,20 @@
+{
+  "name": "backend_2",
+  "version": "1.0.0",
+  "description": "2nd vido of chai aur backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai",
+    "gm"
+  ],
+  "author": "Goutam Mahur",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
